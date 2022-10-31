@@ -136,5 +136,5 @@ def menu():
         print(f"- {key}: {', '.join(rec)}")
 
 
-if __name__ == '__main__' :
+if __name__ == '__main__':
     cli()
