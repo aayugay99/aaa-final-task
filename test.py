@@ -1,6 +1,6 @@
 import unittest
 from subprocess import Popen, PIPE
-from cli import Pizza, Pepperoni, Margherita, Hawaiian
+from pizza import Pizza, Pepperoni, Margherita, Hawaiian
 
 
 class TestPizza(unittest.TestCase):
